@@ -25,7 +25,7 @@
 
 1.  将本项目克隆到本地：
     ```bash
-    git clone [https://github.com/xiuqiang1995/copy-sound.git](https://github.com/xiuqiang1995/copy-sound.git)
+    git clone https://github.com/xiuqiang1995/copy-sound.git
     ```
 2.  进入项目目录：
     ```bash
